@@ -14,7 +14,7 @@ The dataset contains information about customers’ demographics and their likel
 - Data Visualization  
 - Data Cleaning  
 - Conditional Formatting
-- 
+
 ## Key Features
 - Data cleaning and preparation using Excel functions  
 - Pivot tables for summarized insights  
@@ -23,8 +23,9 @@ The dataset contains information about customers’ demographics and their likel
   - Relationship between **income, age, and bike purchase**
   - Influence of **marital status, education, and occupation**
   - **Regional** and **commuting distance** trends
- 
-  - ##  Key Insights
+
+
+   - ##  Key Insights
 - Higher income and middle-aged customers are more likely to buy bikes  
 - Married professionals show higher purchase rates  
 - Short commute distances are correlated with higher bike ownership  
